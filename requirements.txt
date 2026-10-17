@@ -1,0 +1,6 @@
+langchain
+langchain-openai
+langchain-classic
+pandas
+tavily-python
+python-dotenv
