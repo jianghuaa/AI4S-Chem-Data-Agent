@@ -1,0 +1,5 @@
+host,components,molar_ratio,avg_MW_per_unit,Tg_C,Ebind_kcal_mol,transmittance_pct,Tg_source,Ebind_source
+2Arg1CA,Argx2+CAx1,2:1,180.17,13.86,-167.21,92.96,Table S2,Table S3 (population-weighted dominant conformer)
+2Arg1BA,Argx2+BAx1,2:1,194.19,8.26,-169.29,,Table S2,Table S3 (population-weighted dominant conformer)
+2Arg1TA,Argx2+TAx1,2:1,174.84,5.22,-121.99,,Table S2,Table S3 (population-weighted dominant conformer)
+1Arg1GA,Argx1+GAx1,1:1,153.16,8.43,-37.79,,Table S2,Table S3 (population-weighted dominant conformer)

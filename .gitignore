@@ -1,0 +1,12 @@
+# 忽略环境变量文件，防止 API Key 泄露
+.env
+
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+# 忽略 VS Code 配置
+.vscode/
+
+# 忽略测试用的临时图片
+*.png
